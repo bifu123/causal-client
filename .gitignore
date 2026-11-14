@@ -1,0 +1,13 @@
+.build_venv/
+__pycache__/
+.causal_plugin/
+pypi/
+*.rar
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.smode_venv/
+.verify_venv/
+pypi_token.txt
+
